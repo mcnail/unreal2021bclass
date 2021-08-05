@@ -4474,3 +4474,30 @@ Scale3D: 1.000000 1.000000 1.000000
 [2021.08.05-07.04.56:845][915]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 14
 [2021.08.05-07.04.57:199][920]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 13
 [2021.08.05-07.04.57:480][924]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 12
+[2021.08.05-07.04.58:101][931]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 11
+[2021.08.05-07.04.58:101][931]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2021.08.05-07.04.58:322][934]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.08.05-07.04.58:746][939]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2021.08.05-07.04.59:030][942]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.08.05-07.04.59:507][945]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2021.08.05-07.04.59:808][946]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2021.08.05-07.04.59:964][948]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.08.05-07.05.00:348][950]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2021.08.05-07.05.00:878][955]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.08.05-07.05.00:878][955]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.08.05-07.05.04:849][ 44]MaterialEditorStats: Base pass shader: 351 instructions
+[2021.08.05-07.05.04:849][ 44]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 443 instructions
+[2021.08.05-07.05.04:849][ 44]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2021.08.05-07.05.04:849][ 44]MaterialEditorStats: Texture samplers: 6/16
+[2021.08.05-07.05.04:849][ 44]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.08.05-07.05.04:849][ 44]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.08.05-07.05.09:623][140]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2021.08.05-07.05.11:213][140]LogSlate: Window 'Save Content' being destroyed
+[2021.08.05-07.05.11:267][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_sample/BP_Event" FILE="D:/github/unreal2021bclass/BPclass/Content/BP_sample/BP_Event.uasset" SILENT=true
+[2021.08.05-07.05.11:281][140]LogSavePackage: Moving 'D:/github/unreal2021bclass/BPclass/Saved/BP_Event9DB5813640D80F05F13BF595546F0F90.tmp' to 'D:/github/unreal2021bclass/BPclass/Content/BP_sample/BP_Event.uasset'
+[2021.08.05-07.05.11:308][140]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2021.08.05-07.05.11:325][140]LogSavePackage: Moving 'D:/github/unreal2021bclass/BPclass/Saved/ThirdPersonExampleMap6F9EEAA44D01FA5A8DC7CB8610EE40F8.tmp' to 'D:/github/unreal2021bclass/BPclass/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.08.05-07.05.11:331][140]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.049
+[2021.08.05-07.05.11:348][140]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.05-07.05.11:348][140]LogContentValidation: Display: Validating Blueprint /Game/BP_sample/BP_Event.BP_Event
+[2021.08.05-07.05.11:348][140]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
